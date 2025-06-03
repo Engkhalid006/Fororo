@@ -1,0 +1,18 @@
+/* نفس الكود السابق */
+.player {
+  background: #1f1f1f;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.player-controls button,
+.player-controls select {
+  margin: 5px;
+  padding: 10px;
+  background: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
